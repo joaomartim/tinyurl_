@@ -12,7 +12,7 @@ function encurtarUrl() {
 
     let linkRequest = {
         destination: url,
-        domain: { fullName: "rebrand.ly" }
+        domain: { fullName: "martimurl.me" }
     }
 
     fetch("https://api.rebrandly.com/v1/links", {
