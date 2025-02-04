@@ -7,7 +7,7 @@ function encurtarUrl() {
 
     let headers = {
         "Content-Type": "application/json",
-        "apiKey": "9d00f9c0013447c892825828694e51c9"
+        "apiKey": "d56be651e3044b2894faedce010b54a6"
     }
 
     let linkRequest = {
